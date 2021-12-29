@@ -18,9 +18,9 @@ status-website:
   cname: uptime.sampiiiii.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "This is my uptime page for all my currently hosted servies powered by GitHub"
-  introMessage: ""
+  name: Uptime
+  introTitle: "Sampiiiii.com Services Uptime"
+  introMessage: "This site tracks the uptime of all my self-hosted services."
   navbar:
     - title: Status
       href: /
