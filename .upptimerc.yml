@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  theme: dark
+  theme: night
   introTitle: "Sampiiiii.com Services Uptime"
   introMessage: "This site tracks the uptime of all my self-hosted services."
   navbar:
