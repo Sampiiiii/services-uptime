@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/sampiiiii.dev",
     "slug": "sampiiiii-dev",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 518,
-    "timeDay": 518,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
-    "dailyMinutesDown": {
-      "2021-12-30": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 511,
+    "timeDay": 493,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitlab",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.sampiiiii.com",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1207,
-    "timeDay": 1207,
-    "timeWeek": 1207,
-    "timeMonth": 1207,
-    "timeYear": 1207,
-    "dailyMinutesDown": {
-      "2021-12-30": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1171,
+    "timeDay": 1032,
+    "timeWeek": 1171,
+    "timeMonth": 1171,
+    "timeYear": 1171,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/nextcloud.sampiiiii.com",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 2669,
-    "timeDay": 2669,
-    "timeWeek": 2669,
-    "timeMonth": 2669,
-    "timeYear": 2669,
-    "dailyMinutesDown": {
-      "2021-12-30": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2600,
+    "timeDay": 2561,
+    "timeWeek": 2600,
+    "timeMonth": 2600,
+    "timeYear": 2600,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Drone",
@@ -65,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/drone.sampiiiii.com",
     "slug": "drone",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 639,
-    "timeDay": 639,
-    "timeWeek": 639,
-    "timeMonth": 639,
-    "timeYear": 639,
-    "dailyMinutesDown": {
-      "2021-12-30": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 630,
+    "timeDay": 621,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
+    "dailyMinutesDown": {}
   }
 ]
