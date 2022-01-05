@@ -22,18 +22,20 @@
     "url": "https://gitlab.sampiiiii.com",
     "icon": "https://favicons.githubusercontent.com/gitlab.sampiiiii.com",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 928,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "time": 1067,
+    "timeDay": 748,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 1067,
+    "dailyMinutesDown": {
+      "2022-01-05": 0
+    }
   },
   {
     "name": "Nextcloud",
