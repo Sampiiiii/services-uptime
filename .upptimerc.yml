@@ -11,6 +11,8 @@ sites:
     url: https://nextcloud.sampiiiii.com
   - name: Drone
     url: https://drone.sampiiiii.com
+  - name: Code Server
+    url: https://code-server.sampiiiii.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
