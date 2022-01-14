@@ -60,19 +60,19 @@
     "url": "https://drone.sampiiiii.com",
     "icon": "https://favicons.githubusercontent.com/drone.sampiiiii.com",
     "slug": "drone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 596,
-    "timeWeek": 584,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 801,
+    "timeDay": 2978,
+    "timeWeek": 1115,
+    "timeMonth": 801,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2022-01-14": 0
+      "2022-01-14": 7
     }
   },
   {
