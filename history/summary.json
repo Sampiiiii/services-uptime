@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 463,
-    "timeWeek": 468,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "time": 479,
+    "timeDay": 455,
+    "timeWeek": 467,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1038,
-    "timeDay": 896,
-    "timeWeek": 971,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "time": 1036,
+    "timeDay": 965,
+    "timeWeek": 970,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2022-01-05": 29
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2946,
-    "timeDay": 1912,
-    "timeWeek": 2876,
-    "timeMonth": 2946,
-    "timeYear": 2946,
+    "time": 2947,
+    "timeDay": 2973,
+    "timeWeek": 2937,
+    "timeMonth": 2947,
+    "timeYear": 2947,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/drone.sampiiiii.com",
     "slug": "drone",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 801,
-    "timeDay": 2978,
-    "timeWeek": 1115,
-    "timeMonth": 801,
-    "timeYear": 801,
-    "dailyMinutesDown": {
-      "2022-01-14": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 793,
+    "timeDay": 2987,
+    "timeWeek": 1118,
+    "timeMonth": 793,
+    "timeYear": 793,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Code Server",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 585,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 601,
+    "timeDay": 574,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   }
 ]
