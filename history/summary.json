@@ -4,9 +4,9 @@
     "url": "https://sampiiiii.dev",
     "icon": "https://favicons.githubusercontent.com/sampiiiii.dev",
     "slug": "sampiiiii-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 455,
     "timeMonth": 482,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Gitlab",
@@ -25,12 +27,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
     "time": 1044,
     "timeDay": 916,
-    "timeWeek": 1059,
+    "timeWeek": 1062,
     "timeMonth": 1033,
     "timeYear": 1044,
     "dailyMinutesDown": {
