@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 492,
-    "timeWeek": 464,
+    "time": 481,
+    "timeDay": 451,
+    "timeWeek": 463,
     "timeMonth": 475,
-    "timeYear": 482,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.sampiiiii.com",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.84%",
-    "time": 1041,
-    "timeDay": 1139,
-    "timeWeek": 976,
-    "timeMonth": 1035,
-    "timeYear": 1041,
+    "uptimeYear": "99.85%",
+    "time": 1046,
+    "timeDay": 1482,
+    "timeWeek": 1062,
+    "timeMonth": 1048,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2022-02-26": 25,
       "2022-02-24": 25,
@@ -53,11 +53,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 2894,
-    "timeDay": 4362,
-    "timeWeek": 2610,
-    "timeMonth": 2929,
-    "timeYear": 2894,
+    "time": 2914,
+    "timeDay": 4489,
+    "timeWeek": 2904,
+    "timeMonth": 3016,
+    "timeYear": 2914,
     "dailyMinutesDown": {
       "2022-03-04": 27
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 663,
-    "timeDay": 594,
+    "time": 662,
+    "timeDay": 602,
     "timeWeek": 590,
     "timeMonth": 595,
-    "timeYear": 663,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2022-03-04": 27
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 596,
-    "timeDay": 597,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 596,
+    "time": 595,
+    "timeDay": 555,
+    "timeWeek": 592,
+    "timeMonth": 593,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2022-03-04": 27
     }
