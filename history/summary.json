@@ -4,9 +4,9 @@
     "url": "https://sampiiiii.dev",
     "icon": "https://favicons.githubusercontent.com/sampiiiii.dev",
     "slug": "sampiiiii-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 482,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2022-03-21": 0,
       "2022-03-11": 30
     }
   },
@@ -73,11 +74,11 @@
     "icon": "https://favicons.githubusercontent.com/drone.sampiiiii.com",
     "slug": "drone",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "92.46%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.20%",
     "time": 650,
     "timeDay": 592,
     "timeWeek": 582,
