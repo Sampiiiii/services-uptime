@@ -7,8 +7,6 @@ sites:
     url: https://sampiiiii.dev
   - name: Gitlab
     url: https://gitlab.sampiiiii.com
-  - name: Nextcloud
-    url: https://nextcloud.sampiiiii.com
   - name: Drone
     url: https://drone.sampiiiii.com
   - name: Code Server
